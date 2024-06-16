@@ -55,4 +55,4 @@ jobs:
       with:
           tag_name: ${{ github.run_id }}
           files: |
-            output/out.zip
+            output/*.zip
